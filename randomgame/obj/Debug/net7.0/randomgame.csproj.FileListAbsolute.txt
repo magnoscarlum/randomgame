@@ -1,0 +1,15 @@
+P:\code (shaker)\randomgame\randomgame\bin\Debug\net7.0\randomgame.exe
+P:\code (shaker)\randomgame\randomgame\bin\Debug\net7.0\randomgame.deps.json
+P:\code (shaker)\randomgame\randomgame\bin\Debug\net7.0\randomgame.runtimeconfig.json
+P:\code (shaker)\randomgame\randomgame\bin\Debug\net7.0\randomgame.dll
+P:\code (shaker)\randomgame\randomgame\bin\Debug\net7.0\randomgame.pdb
+P:\code (shaker)\randomgame\randomgame\obj\Debug\net7.0\randomgame.csproj.AssemblyReference.cache
+P:\code (shaker)\randomgame\randomgame\obj\Debug\net7.0\randomgame.GeneratedMSBuildEditorConfig.editorconfig
+P:\code (shaker)\randomgame\randomgame\obj\Debug\net7.0\randomgame.AssemblyInfoInputs.cache
+P:\code (shaker)\randomgame\randomgame\obj\Debug\net7.0\randomgame.AssemblyInfo.cs
+P:\code (shaker)\randomgame\randomgame\obj\Debug\net7.0\randomgame.csproj.CoreCompileInputs.cache
+P:\code (shaker)\randomgame\randomgame\obj\Debug\net7.0\randomgame.dll
+P:\code (shaker)\randomgame\randomgame\obj\Debug\net7.0\refint\randomgame.dll
+P:\code (shaker)\randomgame\randomgame\obj\Debug\net7.0\randomgame.pdb
+P:\code (shaker)\randomgame\randomgame\obj\Debug\net7.0\randomgame.genruntimeconfig.cache
+P:\code (shaker)\randomgame\randomgame\obj\Debug\net7.0\ref\randomgame.dll
